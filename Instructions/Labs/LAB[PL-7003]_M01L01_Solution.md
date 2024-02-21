@@ -23,7 +23,7 @@ Dans ce labo, vous créez un serveur de publication et une solution.
   
 ## Prérequis
 
-- Vous devez avoir effectué le **Labo 0 : Valider l’environnement de labo**
+- Vous devez avoir effectué le **Labo 0 : Valider l’environnement de labo**
 
 ## Procédure détaillée
 
@@ -43,7 +43,7 @@ Dans cet exercice, vous accédez au portail de création Power Apps, à l’envi
 
     ![Sélectionnez l’environnement de développement dans le portail de création Power Apps.](../media/select-dev-one-environment.png)
 
-1. Sélectionnez **Applications** dans le volet de navigation gauche, puis sélectionnez **Tous**. Vous devez voir plusieurs applications, notamment l’application Dataverse Accelerator, Solution Health Hub, Power Pages Management et Package Management View.
+1. Sélectionnez **Applications** dans le volet de navigation gauche, puis sélectionnez **Tous**. Vous devez voir plusieurs applications, notamment l’application Dataverse Accelerator, Solution Health Hub, et Power Pages Management.
 
 1. Sélectionnez **Tables** dans le volet de navigation gauche. Vous devez voir les tables standard du *Common Data Model*, notamment Compte et Contact.
 
