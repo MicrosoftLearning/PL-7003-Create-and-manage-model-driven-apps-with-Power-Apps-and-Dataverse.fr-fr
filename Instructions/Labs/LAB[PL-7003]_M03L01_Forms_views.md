@@ -34,7 +34,7 @@ Contoso Real Estate souhaite suivre deux éléments clés :
   
 ## Prérequis
 
-- Vous devez avoir suivi le **Labo 2 : Modèle de données**
+- Doit avoir complété le **Labo 2 : Modèle de données**
 
 ## Procédure détaillée
 
@@ -181,6 +181,8 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Rea
 
 1. **Fermez** le concepteur de formulaires.
 
+1. Cliquez sur **Terminé**.
+
 
 ## Exercice 2 - Formulaire principal Showing
 
@@ -224,6 +226,8 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Sho
 
 1. **Fermez** le concepteur de formulaires.
 
+1. Cliquez sur **Terminé**.
+
 
 ## Exercice 3 - Formulaires multiples
 
@@ -251,7 +255,9 @@ Dans cet exercice, vous allez créer un formulaire et restreindre l’accès ave
 
 1. Sélectionnez la table **Showing** 4 fois pour remplacer le niveau d’accès sur tous les privilèges par **Organisation**.
 
-1. Cliquez sur **Enregistrer et fermer**. De retour dans la solution, sélectionnez **Terminé** pour récupérer les modifications.
+1. Cliquez sur **Enregistrer et fermer**.
+
+1. Cliquez sur **Terminé**.
 
 
 ### Tâche 3.2 – Copier le formulaire
@@ -280,7 +286,9 @@ Dans cet exercice, vous allez créer un formulaire et restreindre l’accès ave
 
 1. Cliquez sur **Enregistrer et publier**.
 
-1. **Fermez** le concepteur de formulaires et sélectionnez **Terminé**.
+1. **Fermez** le concepteur de formulaires.
+
+1. Cliquez sur **Terminé**.
 
 
 ## Exercice 4 - Vues Real Estate Property
@@ -323,12 +331,14 @@ Dans cet exercice, vous allez modifier les vues pour la table Real Estate Proper
 
 1. Cliquez sur **Enregistrer et publier**.
 
-1. **Fermez** le concepteur de vues et sélectionnez **Terminé**.
+1. **Fermer** le concepteur de vues.
+
+1. Cliquez sur **Terminé**.
 
 
 ### Tâche 4.2 – Vue Recherche rapide de biens immobiliers
 
-1. Sélectionnez successivement la vue **Recherche rapide de biens immobiliers**, le menu **Commandes** (...), puis **Modifier** > **Modifier dans un nouvel onglet**.
+1. Sélectionnez la vue **Recherche rapide de biens immobilier actifs**, le menu **Commandes** (...), puis **Modifier** > **Modifier dans un nouvel onglet**.
 
 1. Sélectionnez l’accent circonflexe à côté de la colonne **Créé le**, puis sélectionnez **Supprimer**.
 
@@ -342,7 +352,9 @@ Dans cet exercice, vous allez modifier les vues pour la table Real Estate Proper
 
 1. Cliquez sur **Enregistrer et publier**.
 
-1. **Fermez** le concepteur de vues et sélectionnez **Terminé**.
+1. **Fermer** le concepteur de vues.
+
+1. Cliquez sur **Terminé**.
 
 
 ## Exercice 5 - Vues Showing
@@ -404,6 +416,6 @@ Dans cet exercice, vous allez modifier les vues pour la table Showing.
 
 1. Cliquez sur **Enregistrer et publier**.
 
-1. **Fermez** le concepteur de vues et sélectionnez **Terminé**.
+1. **Fermer** le concepteur de vues.
 
-
+1. Cliquez sur **Terminé**.
