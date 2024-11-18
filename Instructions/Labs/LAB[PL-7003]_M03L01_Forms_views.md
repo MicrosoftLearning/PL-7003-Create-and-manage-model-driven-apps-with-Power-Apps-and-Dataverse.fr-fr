@@ -157,7 +157,7 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Rea
 
 1. Sélectionnez le contrôle **Onglet à 1 colonne** pour l’ajouter au formulaire.
 
-1. Entrez `Showings` pour **Étiquette** et `showingTab` pour **Étiquette**.
+1. Entrez `Showings` pour **Étiquette** et `showingTab` pour **Nom**.
 
 1. Sélectionnez **Arborescence** sur le côté gauche du concepteur de formulaires, développez **Visites**, puis sélectionnez la section **Nouvelle section**.
 
@@ -247,15 +247,15 @@ Dans cet exercice, vous allez créer un formulaire et restreindre l’accès ave
 
 1. Entrez `Property admin` pour **Nom du rôle**.
 
-1. Cliquez sur l’onglet **Entités personnalisées**.
+1. Faites défiler jusqu’à la section **Tables personnalisées**.
 
-1. Sélectionnez la table **Real Estate Property** 4 fois pour remplacer le niveau d’accès sur tous les privilèges par **Organisation**.
+1. Sélectionnez la table **Real Estate Property**. Remplacez le niveau d’accès sur tous les privilèges par **Organisation**.
 
     ![Privilèges sur les biens immobiliers dans le rôle de sécurité.](../media/security-role.png)
 
-1. Sélectionnez la table **Showing** 4 fois pour remplacer le niveau d’accès sur tous les privilèges par **Organisation**.
+1. Sélectionnez la table **Showing**. Remplacez le niveau d’accès sur tous les privilèges par **Organisation**.
 
-1. Cliquez sur **Enregistrer et fermer**.
+1. Sélectionnez **Enregistrer et fermer**.
 
 1. Cliquez sur **Terminé**.
 
