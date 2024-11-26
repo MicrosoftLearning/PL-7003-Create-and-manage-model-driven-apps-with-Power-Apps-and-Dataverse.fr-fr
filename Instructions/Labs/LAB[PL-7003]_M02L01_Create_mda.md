@@ -13,7 +13,7 @@ Dans ce labo, vous créerez une application pilotée par modèle et ajouterez de
 Contoso Real Estate souhaite suivre deux éléments clés :
 
 - Annonces immobilières
-- Quel agent doit faire visiter les propriétés immobilières
+- Qui est prévu pour faire visiter les biens immobiliers
 
 ## Contenu du didacticiel
 
@@ -27,7 +27,7 @@ Contoso Real Estate souhaite suivre deux éléments clés :
   
 ## Prérequis
 
-- Vous devez avoir effectué le **Labo 2 : Modèle de données**
+- Doit avoir complété le **Labo 2 : Modèle de données**
 
 
 ## Procédure détaillée
@@ -40,7 +40,7 @@ Dans cet exercice, vous créerez une application pilotée par modèle.
 
 1. Accéder au portail Power Apps Maker `https://make.powerapps.com`
 
-1. Assurez-vous d’être dans l’environnement **Dev One**.
+1. Vérifiez que vous êtes dans l’environnement **Dev One**.
 
 1. Cliquez sur **Solutions**.
 
@@ -64,8 +64,6 @@ Dans cet exercice, vous créerez une application pilotée par modèle.
     ![Capture d’écran de la boîte de dialogue Ajouter une page à l’application pilotée par modèle](../media/mda-new-page.png)
 
 1. Sélectionnez **Table Dataverse**.
-
-1. Cliquez sur **Suivant**.
 
 1. Entrez `cre` dans **Rechercher**.
 
