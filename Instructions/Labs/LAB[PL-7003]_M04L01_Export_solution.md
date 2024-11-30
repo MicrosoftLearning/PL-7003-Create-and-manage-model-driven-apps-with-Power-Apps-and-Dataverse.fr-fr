@@ -66,6 +66,8 @@ Dans cet exercice, vous allez exporter la solution à partir de l’environnemen
 
 1. Cliquez sur **Suivant**.
 
+1. Cliquez à nouveau sur **Suivant**.
+
 1. Le numéro de version devrait être incrémenté à **1.0.0.1**.
 
     ![Volet Exporter la solution.](../media/export-solution.png)
@@ -82,6 +84,8 @@ Dans cet exercice, vous allez exporter la solution à partir de l’environnemen
 1. Sélectionnez **Exporter**.
 
 1. Cliquez sur **Suivant**.
+
+1. Cliquez à nouveau sur **Suivant**.
 
 1. Le numéro de version devrait être incrémenté à **1.0.0.2**.
 

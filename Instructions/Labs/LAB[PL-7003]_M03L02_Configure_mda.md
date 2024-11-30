@@ -51,7 +51,7 @@ Dans cet exercice, vous allez configurer la navigation et les tables d’une app
 
 1. Dans le volet Propriétés, entrez `Clients` pour **Titre**.
 
-1. Sélectionnez **Navigation**, sélectionnez le menu **Commandes** (...) **...**, puis sélectionnez **Nouveau groupe**.
+1. Sélectionnez **Navigation**, le menu **Commandes** (...), puis **Nouveau groupe**.
 
 1. Dans le volet Propriétés, entrez `Properties` pour **Titre**.
 

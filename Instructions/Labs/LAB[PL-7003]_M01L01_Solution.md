@@ -89,7 +89,7 @@ Dans cet exercice, vous ajoutez une table existante à la solution.
 
 1. Cliquez sur **Solutions**.
 
-1. Sélectionnez la solution **Contoso Real Estate** de l’exercice précédent.
+1. Sélectionnez la solution de **référencements de propriétés** de l’exercice précédent.
 
     ![Objets de la solution de listing de propriétés.](../media/solution-objects.png)
 
