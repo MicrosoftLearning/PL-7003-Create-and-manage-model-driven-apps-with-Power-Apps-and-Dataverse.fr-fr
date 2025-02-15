@@ -171,7 +171,7 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Rea
 
 1. Sélectionnez **Afficher les enregistrements associés**.
 
-1. Sélectionnez **Showings** pour **Table** et **Visites actives** pour **Vue par défaut**, puis sélectionnez **Terminé**.
+1. Sélectionnez **Showings (Real Estate Property)** pour **Table** et **Visites actives** pour **Vue par défaut**, puis sélectionnez **Terminé**.
 
 1. Entrez `Showings` pour **Étiquette** et `showingsSG` pour **Nom**.
 

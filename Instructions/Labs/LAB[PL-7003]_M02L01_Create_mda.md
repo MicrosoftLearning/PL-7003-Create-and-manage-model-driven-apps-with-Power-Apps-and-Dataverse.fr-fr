@@ -83,6 +83,7 @@ Dans cet exercice, vous créerez une application pilotée par modèle.
 
 1. Cliquez sur **Publier**.
 
+    ![Capture d’écran de l’icône de publication.](../media/mda-publish-btn.png)
 
 ### Tâche 1.3 : Test
 

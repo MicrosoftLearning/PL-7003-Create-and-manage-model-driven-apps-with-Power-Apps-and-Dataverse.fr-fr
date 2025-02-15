@@ -103,7 +103,7 @@ Dans cet exercice, vous ajoutez une table existante à la solution.
 
 1. Cliquez sur **Suivant**.
 
-1. Sous la table **Compte**, sélectionnez le lien **Sélectionner des objets**.
+1. Sous la table **Compte**, sélectionnez le lien **Modifier des objets**.
 
 1. Sous l’onglet **Colonnes**, sélectionnez la colonne **Numéro de compte**.
 
