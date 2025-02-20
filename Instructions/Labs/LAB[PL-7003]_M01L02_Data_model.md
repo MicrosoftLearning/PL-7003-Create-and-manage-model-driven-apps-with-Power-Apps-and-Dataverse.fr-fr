@@ -47,7 +47,7 @@ Dans cet exercice, vous allez créer et ajouter des tables à la solution.
 
 1. Ouvrez la solution **Annonces immobilières**.
 
-1. Sélectionnez **+ Nouveau**, **Table**, puis **Définir les propriétés avancées**.
+1. Sélectionnez **+ Nouveau**, **Table**, puis **Table (propriétés avancées)**.
 
     ![Capture d’écran du volet Nouvelle table](../media/new-table-pane.png)
 
@@ -78,7 +78,7 @@ Dans cet exercice, vous allez créer et ajouter des tables à la solution.
 
 1. Dans le volet **Objets**, sélectionnez **Tous**.
 
-1. Sélectionnez **+ Nouveau**, **Table**, puis **Définir les propriétés avancées**.
+1. Sélectionnez **+ Nouveau**, **Table**, puis **Table (propriétés avancées)**.
 
 1. Entrez `Showing` comme **Nom d’affichage**. Le nom au pluriel est automatiquement renseigné.
 
@@ -93,7 +93,7 @@ Dans cet exercice, vous allez créer et ajouter des tables à la solution.
 
 1. Dans le volet **Objets**, sélectionnez **Tous**.
 
-1. Sélectionnez **+ Nouveau**, **Table**, puis **Définir les propriétés avancées** à nouveau.
+1. Sélectionnez **+ Nouveau**, **Table**, puis **Table (propriétés avancées)** à nouveau.
 
 1. Entrez `Open House` comme **Nom d’affichage**. Le nom au pluriel est automatiquement renseigné.
 
