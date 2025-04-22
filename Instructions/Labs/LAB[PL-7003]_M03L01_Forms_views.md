@@ -247,6 +247,8 @@ Dans cet exercice, vous allez créer un formulaire et restreindre l’accès ave
 
 1. Entrez `Property admin` pour **Nom du rôle**.
 
+1. Sélectionnez l’**unité commerciale**, puis enregistrez.
+
 1. Faites défiler jusqu’à la section **Tables personnalisées**.
 
 1. Sélectionnez la table **Real Estate Property**. Remplacez le niveau d’accès sur tous les privilèges par **Organisation**.
