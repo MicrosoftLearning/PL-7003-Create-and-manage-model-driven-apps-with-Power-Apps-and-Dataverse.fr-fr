@@ -63,7 +63,6 @@ Dans cet exercice, vous allez configurer la navigation et les tables d’une app
 
     ![Capture d’écran du concepteur d’application pilotée par modèle avec illustration de la navigation.](../media/mda-navigation.png)
 
-
 ### Tâche 1.2 - Restreindre des vues
 
 1. Dans le **volet de navigation**, sélectionnez la vue **Visites**.
@@ -74,9 +73,6 @@ Dans cet exercice, vous allez configurer la navigation et les tables d’une app
 
     ![Capture d’écran de la suppression d’une vue dans le concepteur d’application pilotée par modèle.](../media/mda-remove-view.png)
 
-1. Sélectionnez **Enregistrer**.
-
-1. Cliquez sur **Publier**.
+1. Cliquez sur **Enregistrer et publier**.
 
 1. **Fermez** le concepteur d’application, puis sélectionnez **Terminé**.
-

@@ -46,7 +46,6 @@ Dans cet exercice, vous allez exporter la solution à partir de l’environnemen
 
 1. Sélectionnez **Publier toutes les personnalisations**.
 
-
 ### Tâche 1.2 – Vérificateur de solution
 
 1. Dans la solution, sélectionnez l’onglet **Vue d’ensemble**.
@@ -58,7 +57,6 @@ Dans cet exercice, vous allez exporter la solution à partir de l’environnemen
     ![Page des résultats du vérificateur de solution.](../media/solution-checker.png)
 
 1. Vous ne devriez voir aucun avertissement ni aucune erreur.
-
 
 ### Tâche 1.3 – Exporter une solution managée
 
@@ -78,7 +76,6 @@ Dans cet exercice, vous allez exporter la solution à partir de l’environnemen
 
 1. L’exportation est préparée en arrière-plan. Une fois que la solution est prête, sélectionnez le bouton **Télécharger**.
 
-
 ### Tâche 1.4 – Exporter une solution non managée
 
 1. Sélectionnez **Exporter**.
@@ -96,4 +93,3 @@ Dans cet exercice, vous allez exporter la solution à partir de l’environnemen
 1. Sélectionnez **Exporter**.
 
 1. L’exportation est préparée en arrière-plan. Une fois que la solution est prête, sélectionnez le bouton **Télécharger**.
-
