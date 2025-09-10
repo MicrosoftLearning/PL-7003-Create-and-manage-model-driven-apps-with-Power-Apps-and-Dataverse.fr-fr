@@ -47,7 +47,7 @@ Dans cet exercice, vous allez créer et ajouter des tables à la solution.
 
 1. Ouvrez la solution **Annonces immobilières**.
 
-1. Sélectionnez **+ Nouveau**, **Table**, puis **Table (propriétés avancées)**.
+1. Sélectionnez **+ Nouveau**, puis choisissez **Table** et sélectionnez **Table (propriétés avancées)**.
 
     ![Capture d’écran du volet Nouvelle table](../media/new-table-pane.png)
 
@@ -71,14 +71,19 @@ Dans cet exercice, vous allez créer et ajouter des tables à la solution.
 
     ![Capture d’écran des options avancées de la table](../media/table-options.png)
 
-1. Sélectionnez **Enregistrer**.
+1. Cliquez sur **Enregistrer**.
 
+1. Sélectionnez **Propriétés**.
+
+    ![Capture d’écran de la table Real Estate Property](../media/real-estate-property-table.png)
+
+1. Cochez **Activer les pièces jointes** et sélectionnez **Enregistrer**.
 
 ### Tâche 1.2 – Créer une table Showing
 
 1. Dans le volet **Objets**, sélectionnez **Tous**.
 
-1. Sélectionnez **+ Nouveau**, **Table**, puis **Table (propriétés avancées)**.
+1. Sélectionnez **+ Nouveau**, puis choisissez **Table** et sélectionnez **Table (propriétés avancées)**.
 
 1. Entrez `Showing` comme **Nom d’affichage**. Le nom au pluriel est automatiquement renseigné.
 
@@ -88,12 +93,11 @@ Dans cet exercice, vous allez créer et ajouter des tables à la solution.
 
 1. Sélectionnez **Enregistrer**.
 
-
 ### Tâche 1.3 – Créer une table Open House
 
 1. Dans le volet **Objets**, sélectionnez **Tous**.
 
-1. Sélectionnez **+ Nouveau**, **Table**, puis **Table (propriétés avancées)** à nouveau.
+1. Sélectionnez **+ Nouveau**, puis choisissez **Table** et sélectionnez **Table (propriétés avancées)** à nouveau.
 
 1. Entrez `Open House` comme **Nom d’affichage**. Le nom au pluriel est automatiquement renseigné.
 
@@ -102,7 +106,6 @@ Dans cet exercice, vous allez créer et ajouter des tables à la solution.
 1. Sélectionnez **Organisation** pour **Propriété des enregistrements**.
 
 1. Sélectionnez **Enregistrer**.
-
 
 ### Tâche 1.4 – Ajouter une table Contact
 
@@ -115,7 +118,6 @@ Dans cet exercice, vous allez créer et ajouter des tables à la solution.
 1. Cliquez sur **Suivant**.
 
 1. Sélectionnez **Ajouter**.
-
 
 ## Exercice 2 – Créer des colonnes
 
@@ -132,12 +134,6 @@ Dans cet exercice, vous allez créer des colonnes dans les tables de la solution
 1. Ouvrez la solution **Annonces immobilières**.
 
 1. Sélectionnez la table **Real Estate Property**.
-
-1. Sélectionnez **Propriétés**.
-
-    ![Capture d’écran de la table Real Estate Property](../media/real-estate-property-table.png)
-
-1. Cochez **Activer les pièces jointes** et sélectionnez **Enregistrer**.
 
 1. En dessous de **Schéma**, sélectionner **Colonnes**.
 
@@ -213,7 +209,6 @@ Dans cet exercice, vous allez créer des colonnes dans les tables de la solution
 
 1. Sélectionnez **Enregistrer**.
 
-
 ### Tâche 2.2 – Créer des colonnes Showing
 
 1. Dans le volet **Objets**, sélectionnez **Tous**.
@@ -272,7 +267,6 @@ Dans cet exercice, vous allez créer des colonnes dans les tables de la solution
 
 1. Sélectionnez **Enregistrer**.
 
-
 ### Tâche 2.3 – Créer des colonnes Open House
 
 1. Dans le volet **Objets**, sélectionnez **Tous**.
@@ -292,7 +286,6 @@ Dans cet exercice, vous allez créer des colonnes dans les tables de la solution
 1. Dans la liste déroulante **Requis**, sélectionnez **Entreprise requise**.
 
 1. Sélectionnez **Enregistrer**.
-
 
 ## Exercice 3 – Créer des relations
 
@@ -322,7 +315,6 @@ Dans cet exercice, vous allez créer des relations entre les tables de la soluti
 
 1. Cliquez sur **Terminé**.
 
-
 ### Tâche 3.2 – Relation entre Real Estate Property et Showing
 
 1. Sélectionnez **+ Nouvelle relation**, puis **Un-à-plusieurs**.
@@ -332,7 +324,6 @@ Dans cet exercice, vous allez créer des relations entre les tables de la soluti
 1. Dans la liste déroulante **Exigences de la colonne de recherche**, sélectionnez **Entreprise requise**.
 
 1. Cliquez sur **Terminé**.
-
 
 ### Tâche 3.3 – Relation entre Real Estate Property et Open House
 
@@ -347,7 +338,6 @@ Dans cet exercice, vous allez créer des relations entre les tables de la soluti
 1. Entrez `realestateproperty_openhouse` dans **nom de la relation**.
 
 1. Cliquez sur **Terminé**.
-
 
 ### Tâche 3.4 – Relation entre Showing et Contact
 
@@ -364,4 +354,3 @@ Dans cet exercice, vous allez créer des relations entre les tables de la soluti
 1. Entrez `Shown to` pour **Nom d’affichage de la colonne de recherche**.
 
 1. Cliquez sur **Terminé**.
-

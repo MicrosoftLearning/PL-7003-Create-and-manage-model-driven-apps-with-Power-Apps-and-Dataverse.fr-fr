@@ -38,6 +38,8 @@ Dans cet exercice, vous vérifiez que vous pouvez accéder à Power Apps.
 
 1. Vous pouvez également sélectionner **Oui** pour rester connecté.
 
+1. Le cas échéant, sélectionnez **Non, merci** pour vous connecter à Microsoft Edge.
+
 1. Si vous êtes invité à entrer des informations de contact, laissez le pays ou la région comme valeur par défaut, et entrez `0123456789` pour le numéro de téléphone, puis sélectionnez **Envoyer**.
 
 1. Actualisez la page. En haut à droite de l’écran, vérifiez que l’**Environnement** est défini sur **Dev One**. C’est là que vous travaillez pendant toute la durée de ce labo. Si ce n’est pas le cas, sélectionnez l’environnement **Dev One**.

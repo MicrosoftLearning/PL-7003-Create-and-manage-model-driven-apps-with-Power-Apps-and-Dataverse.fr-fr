@@ -29,7 +29,6 @@ Contoso Real Estate souhaite suivre deux éléments clés :
 
 - Doit avoir complété le **Labo 2 : Modèle de données**
 
-
 ## Procédure détaillée
 
 ## Exercice 1 : Créer une application pilotée par modèle
@@ -56,16 +55,13 @@ Dans cet exercice, vous créerez une application pilotée par modèle.
 
     ![Capture d’écran du concepteur d’application pilotée par modèle.](../media/mda-designer.png)
 
-
 ### Tâche 1.2 : Ajouter des tables
 
-1. Cliquez sur **+ Ajouter une page**.
+1. Sélectionnez le menu déroulant à côté de **+ Ajouter une page** et choisissez **Table Dataverse**.
 
     ![Capture d’écran de la boîte de dialogue Ajouter une page à l’application pilotée par modèle](../media/mda-new-page.png)
 
-1. Sélectionnez **Table Dataverse**.
-
-1. Entrez `cre` dans **Rechercher**.
+1. Entrez `cre_` dans **Rechercher**.
 
     ![Capture d’écran de la boîte de dialogue Ajouter une page à l’application pilotée par modèle.](../media/mda-add-tables.png)
 
@@ -79,11 +75,9 @@ Dans cet exercice, vous créerez une application pilotée par modèle.
 
     ![Capture d’écran du concepteur d’applications pilotées par modèle avec des tables.](../media/mda-designer-with-tables.png)
 
-1. Sélectionnez **Enregistrer**.
+1. Cliquez sur **Enregistrer et publier**.
 
-1. Cliquez sur **Publier**.
-
-    ![Capture d’écran de l’icône de publication.](../media/mda-publish-btn.png)
+    ![Capture d’écran de l’icône enregistrer et publier.](../media/mda-save-publish-btn.png)
 
 ### Tâche 1.3 : Test
 
@@ -119,3 +113,6 @@ Dans cet exercice, vous créerez une application pilotée par modèle.
 
 1. Sélectionnez **Enregistrer et fermer**.
 
+1. Fermez l’application.
+
+1. Sélectionnez **<- Retour** dans le concepteur d’application **Gestion des propriétés**.

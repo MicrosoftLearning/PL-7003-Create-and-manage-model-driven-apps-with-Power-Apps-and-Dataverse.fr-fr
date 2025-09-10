@@ -78,9 +78,11 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Rea
 
     ![Capture d’écran du formulaire principal avec une arborescence et des noms.](../media/main-form-tab-layout.png)
 
-1. Sélectionnez la première section.
-
 1. Sélectionnez **Colonnes de table** dans le volet de navigation de gauche dans le concepteur de formulaires.
+
+1. Faites glisser la colonne **Motif de l’état** dans la zone **En-tête**.
+
+1. Sélectionnez la première section.
 
 1. Faites glisser la colonne **Client** sous le champ **Nom de la propriété**.
 
@@ -90,7 +92,7 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Rea
 
 1. Sélectionnez **Composants** dans le volet de navigation de gauche dans le concepteur de formulaires.
 
-1. Sélectionnez le contrôle **Section à 1 colonne** pour l’ajouter au formulaire.
+1. Sélectionnez le contrôle **Section à 1 colonne** pour l’ajouter au formulaire sous la section Général.
 
 1. Entrez `Details` pour **Étiquette** et `detailsSection` pour **Nom**.
 
@@ -105,7 +107,6 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Rea
 1. Sélectionnez la colonne **Salles de bains** à ajouter au formulaire sous **Chambres**.
 
     ![Capture d’écran du formulaire principal avec des colonnes de table.](../media/main-form-first-tab.png)
-
 
 ### Tâche 1.2 – Ajouter un contrôle Chronologie
 
@@ -131,11 +132,6 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Rea
 
 1. Dans le volet **Propriétés** à droite, sélectionnez **Date créée** dans la liste déroulante **Trier les activités par**.
 
-1. Sélectionnez **Colonnes de table** dans le volet de navigation de gauche dans le concepteur de formulaires.
-
-1. Faites glisser la colonne **Motif de l’état** dans la zone **En-tête**.
-
-
 ### Tâche 1.3 – Ajouter un contrôle Aperçu
 
 1. Sélectionnez **Arborescence** sur le côté gauche du concepteur de formulaires.
@@ -149,7 +145,6 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Rea
 1. Sélectionnez le contrôle **Aperçu** pour l’ajouter à la section **Associé**.
 
 1. Sélectionnez **Client** pour **Recherche** et **carte de contact de compte** pour **Contact**, puis sélectionnez **Terminé**.
-
 
 ### Tâche 1.4 – Ajouter un onglet
 
@@ -183,7 +178,6 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Rea
 
 1. Cliquez sur **Terminé**.
 
-
 ## Exercice 2 - Formulaire principal Showing
 
 Dans cet exercice, vous allez modifier le formulaire principal pour la table Showing.
@@ -216,7 +210,7 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Sho
 
 1. Sélectionnez la colonne **Date de la visite** à ajouter au formulaire sous **Montré par**.
 
-1. Sélectionnez la colonne **Niveau d’intérêt** à ajouter au formulaire sous **Date de la visite**.
+1. Sélectionnez la colonne **Niveau d’intérêt** pour l’ajouter au formulaire sous **Date d’affichage**.
 
 1. Sélectionnez la colonne **Commentaires** à ajouter au formulaire sous **Niveau d’intérêt**.
 
@@ -227,7 +221,6 @@ Dans cet exercice, vous allez modifier le formulaire principal pour la table Sho
 1. **Fermez** le concepteur de formulaires.
 
 1. Cliquez sur **Terminé**.
-
 
 ## Exercice 3 - Formulaires multiples
 
@@ -247,20 +240,39 @@ Dans cet exercice, vous allez créer un formulaire et restreindre l’accès ave
 
 1. Entrez `Property admin` pour **Nom du rôle**.
 
-1. Sélectionnez l’**unité commerciale**, puis enregistrez.
+1. Sélectionnez **Unité commerciale racine** et choisissez **Enregistrer**.
 
-1. Faites défiler jusqu’à la section **Tables personnalisées**.
+1. Saisissez `cre_` dans le champ **Rechercher par nom de la table** dans le coin supérieur droit de la page.
 
-1. Sélectionnez la table **Real Estate Property**. Remplacez le niveau d’accès sur tous les privilèges par **Organisation**.
+1. Sélectionnez **Afficher toutes les tables** dans le menu déroulant sur le côté gauche de la page.
 
-    ![Privilèges sur les biens immobiliers dans le rôle de sécurité.](../media/security-role.png)
+1. Sélectionnez la table **Real Estate Property**.
 
-1. Sélectionnez la table **Showing**. Remplacez le niveau d’accès sur tous les privilèges par **Organisation**.
+1. Sélectionnez le menu **Commandes** (...), puis choisissez **Paramètres des autorisations**.
 
-1. Sélectionnez **Enregistrer et fermer**.
+1. Sélectionnez **Accès total** pour modifier le niveau d’accès de tous les privilèges sur **Organisation**.
 
-1. Cliquez sur **Terminé**.
+1. Cliquez sur **Enregistrer**.
 
+    ![Privilèges des biens immobiliers dans le rôle de sécurité.](../media/security-role.png)
+
+1. Sélectionnez la table **Showing**.
+
+1. Sélectionnez le menu **Commandes** (...), puis choisissez **Paramètres des autorisations**.
+
+1. Sélectionnez **Accès total** pour modifier le niveau d’accès de tous les privilèges sur **Organisation**.
+
+1. Cliquez sur **Enregistrer**.
+
+1. Sélectionnez la table **Open House**.
+
+1. Sélectionnez le menu **Commandes** (...), puis choisissez **Paramètres des autorisations**.
+
+1. Sélectionnez **Accès total** pour modifier le niveau d’accès de tous les privilèges sur **Organisation**.
+
+1. Cliquez sur **Enregistrer**.
+
+1. Sélectionnez **<- Retour**.
 
 ### Tâche 3.2 – Copier le formulaire
 
@@ -270,9 +282,9 @@ Dans cet exercice, vous allez créer un formulaire et restreindre l’accès ave
 
 1. Sélectionnez le formulaire **Information** dans lequel le **Type de formulaire** est **Principal**. Sélectionnez le menu **Commandes** (...), puis sélectionnez **Modifier** > **Modifier dans un nouvel onglet**.
 
-1. Sélectionnez **Niveau d’intérêt**, puis dans le volet Propriétés, sélectionnez **Lecture seule**.
+1. Sélectionnez **Niveau d’intérêt** et, dans le volet Propriétés, choisissez **En lecture seule**.
 
-1. Sélectionnez **Commentaires**, puis dans le volet Propriétés, sélectionnez **Lecture seule**.
+1. Sélectionnez **Commentaires** et, dans le volet Propriétés, choisissez **En lecture seule**.
 
 1. Sélectionnez **Enregistrer une copie**.
 
@@ -280,7 +292,7 @@ Dans cet exercice, vous allez créer un formulaire et restreindre l’accès ave
 
     ![Copie du formulaire principal Showing.](../media/main-form-copy.png)
 
-1. Sélectionnez **Paramètres du formulaire**.
+1. Cliquez sur **Paramètres de formulaire**.
 
 1. Sélectionnez le rôle de sécurité **Administrateur de propriété**.
 
@@ -291,7 +303,6 @@ Dans cet exercice, vous allez créer un formulaire et restreindre l’accès ave
 1. **Fermez** le concepteur de formulaires.
 
 1. Cliquez sur **Terminé**.
-
 
 ## Exercice 4 - Vues Real Estate Property
 
@@ -337,7 +348,6 @@ Dans cet exercice, vous allez modifier les vues pour la table Real Estate Proper
 
 1. Cliquez sur **Terminé**.
 
-
 ### Tâche 4.2 – Vue Recherche rapide de biens immobiliers
 
 1. Sélectionnez la vue **Recherche rapide de biens immobilier actifs**, le menu **Commandes** (...), puis **Modifier** > **Modifier dans un nouvel onglet**.
@@ -357,7 +367,6 @@ Dans cet exercice, vous allez modifier les vues pour la table Real Estate Proper
 1. **Fermer** le concepteur de vues.
 
 1. Cliquez sur **Terminé**.
-
 
 ## Exercice 5 - Vues Showing
 
@@ -400,7 +409,6 @@ Dans cet exercice, vous allez modifier les vues pour la table Showing.
 1. Dans le volet Biens, sélectionnez **Trier par** et **Date de la visite**.
 
 1. Dans le menu déroulant **Enregistrer et publier**, sélectionnez **Enregistrer uniquement**.
-
 
 ### Tâche 5.2 – Nouvelle vue Showing
 
